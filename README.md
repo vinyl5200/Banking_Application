@@ -1,0 +1,1 @@
+This project is a full-stack banking application with a Java Spring Boot backend and a React frontend. It allows users to manage bank accounts and perform transactions like deposits, withdrawals, and transfers. The application is built with a focus on a secure API and a user-friendly interface.
